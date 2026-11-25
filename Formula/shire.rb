@@ -1,5 +1,5 @@
 class Shire < Formula
-  desc "Observability platform for always-on laptops and power users"
+  desc "Extensible observability platform for always-on laptops and power users"
   homepage "https://github.com/abigailzeke/project-shire"
   url "https://github.com/abigailzeke/project-shire/releases/download/v0.2.0/project_shire-0.2.0-py3-none-any.whl", using: :nounzip
   version "0.2.0"
